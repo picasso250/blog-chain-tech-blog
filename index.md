@@ -19,4 +19,4 @@ cumt.xiaochi@gmail.com
 
 ### 列表
 
-第一弹：[迄今为止最平易近人的区块链技术向科普](1.html)
+第一弹：[迄今为止最平易近人的区块链技术向科普](1_first_video.html)
