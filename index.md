@@ -21,6 +21,8 @@ cumt.xiaochi@gmail.com
 
 ### 列表
 
+第零弹：[白皮书](blog/0_white_paper)
+
 第一弹：[迄今为止最平易近人的区块链技术向科普](blog/1_first_video.html)
 
 第二弹：[区块链能用在哪里？](blog/2_block_chain_use.html)
